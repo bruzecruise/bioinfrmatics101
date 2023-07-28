@@ -11,7 +11,7 @@
 ####### this pipeline trims sequencing adapters. quality filters. Trims again. Then demultiplex, map reads to ref genome, identifies optical duplicates and assigns RGs
 # need to add SNP calling and filtering
 # works with New 2023 ND RAD adatpers 
-# need to have a barcode tsv (tab seperated text) file that has 2 columns - 1 adapter sequence. 2 metadata 
+# need to have a barcode fasta file with the header containing no spaces
 
 
 
