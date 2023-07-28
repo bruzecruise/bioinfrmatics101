@@ -1,0 +1,8 @@
+## homework on july 27 2023
+
+# explore this repo
+# create 3 conda emviroments and install programs in them 
+
+#1 create fastp enviroment and install fastp
+#2 create flexbar enviroment and install flexbar
+#3 create mapping enviroment and install samtools and bwa mem2
