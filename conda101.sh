@@ -24,8 +24,8 @@ conda install -c bioconda bar
 
 #################
 # create a python 2.7 enviroment and install some programs 
-conda create --name py2 python=2.7
-conda activate py2
+conda create --name jeff
+conda activate jeff
 
 conda install -c bioconda trimmomatic
 conda install -c bioconda fastqc
