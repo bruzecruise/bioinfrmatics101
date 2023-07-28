@@ -1,0 +1,5 @@
+# useful liks to help
+
+# ilumnina library scheme 
+# we use trueseq 
+https://teichlab.github.io/scg_lib_structs/methods_html/Illumina.html 
